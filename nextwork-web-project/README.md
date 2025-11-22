@@ -1,1 +1,1 @@
-This is part of my lab work for my nextwork-web CICD pipeline, not the original documentation
+Java web app set up on an EC2 instance.
